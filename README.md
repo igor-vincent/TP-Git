@@ -76,4 +76,5 @@ Liste des étudiants ayant réussi ce TP
 * Simon Renoult,
 * Arthur Bourjac,
 * Darya Ciuhrii,
-* Florent Segouin.
+* Florent Segouin,
+* Igor Vincent.
