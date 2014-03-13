@@ -68,6 +68,8 @@ Liste des étudiants ayant réussi ce TP
 * Jérémie JALOUZET,
 * Alexandre RAOUL,
 * Gabriel KAAM,
+* Nicolas Isaac,
+* Thibault Jacquemet,
 * Mickael Francisco,
 * Christophe MORE,
 * Mohammed Ouadghiri,
@@ -77,5 +79,6 @@ Liste des étudiants ayant réussi ce TP
 * Arthur Bourjac,
 * Darya Ciuhrii,
 * Florent Segouin,
-* Igor Vincent,
-* Bastien Boulard.
+* Sébastien Inion,
+* Maxime CHAMONT,
+* Igor Vincent.
